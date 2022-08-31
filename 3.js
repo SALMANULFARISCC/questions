@@ -4,7 +4,7 @@ function count_occur( str )
 // checking string is valid or not
 if( str.length == 0 )
 {
-	console.log("Invalid string")
+	console.log("invalid array")
 	return;
 }
 //cor loop to iterate over string
